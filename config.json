@@ -1,0 +1,11 @@
+{
+    "local": {
+      "host": "the current server ip thats ur proxy",
+      "port": 1337
+    },
+    "remote": {
+      "host": "the server its proxying to",
+      "port": 1337
+    }
+  }
+  
